@@ -100,3 +100,10 @@ Revision/Addition Description and Link:
 Added a few useful dplyr functions to help with data analysis
 
 https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/Tidyverse%20demo%20Stephen%20Phillips.Rmd
+
+## Author
+* Shamecca Marshall
+* Date: 2023-15-11
+* Link to rmd:
+* https://raw.githubusercontent.com/Meccamarshall/FALL2023TIDYVERSE/main/Shamecca_Kenya_Tidyverse%20.Rmd
+* This file demostrates how to plot and filter data.
